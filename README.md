@@ -50,6 +50,69 @@ Step 3. Paste your search quiery into the search bar and click the search icon
 <br />
 
 
+Step 4. Results are shown on the screen 
+
+<p align="center">
+<img src="https://imgur.com/FtILLq4.png alt="Traffic Examination"/>  
+</p>
+<br />
+<br />
+
+
+Step 5. Click vizualizations on the left which will show the results in chart form. There are several to choose from.
+
+<p align="center">
+<img src="https://imgur.com/Vosce87.png alt="Traffic Examination"/>  
+</p>
+<br />
+<br />
+<p align="center">
+<img src="https://imgur.com/9S28Gws.png alt="Traffic Examination"/>  
+</p>
+<br />
+<br />
+
+Area Chart
+<p align="center">
+<img src="https://imgur.com/6PoSeK3.png alt="Traffic Examination"/>  
+</p>
+<br />
+<br />
+
+Bar Chart
+<p align="center">
+<img src="https://imgur.com/dZjDFaX.png alt="Traffic Examination"/>  
+</p>
+<br />
+<br />
+
+Pie Chart
+<p align="center">
+<img src="https://imgur.com/b76HtJq.png alt="Traffic Examination"/>  
+</p>
+<br />
+<br />
+
+Step 7. You can export your results as a .csv, json or xml
+
+<p align="center">
+<img src="https://imgur.com/NoKZ7dm.png alt="Traffic Examination"/>  
+</p>
+<br />
+<br />
+
+Report in .csv format
+<p align="center">
+<img src="https://imgur.com/mtSKoyr.png alt="Traffic Examination"/>  
+</p>
+<br />
+<br />
+
+
+
+
+
+
 
 
 
