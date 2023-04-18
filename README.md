@@ -18,6 +18,8 @@ In order to complete this lab you need the following:
 
 - Splunk installed to a local or virtual machine
 - Data files to uploaded into Splunk
+- <a href="https://docs.splunk.com/Documentation/Splunk/9.0.4/SearchTutorial/GetthetutorialdataintoSplunk"> Here is the tutorial on uploading data into Splunk </a>☺</h1>
+- <a href="https://docs.splunk.com/images/Tutorial/tutorialdata.zip"> Here is where you can find the csv data file I used for this tutorial. </a>☺</h1>
 <br />
 <br />
 
