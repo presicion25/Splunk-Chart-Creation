@@ -21,6 +21,15 @@ In order to complete this lab you need the following:
 <br />
 <br />
 
+ Click below for the tutorial and a video demonstration:
+ 
+ <details close>
+
+<div>
+
+</summary>
+ 
+
 <h2>Main Steps</h2>
 
 Step 1. Log into Splunk
