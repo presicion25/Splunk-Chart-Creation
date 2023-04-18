@@ -128,6 +128,11 @@ Below is a video demonstration of me doing a basic search in Splunk based on dat
 
 [![Part 1](https://i.vimeocdn.com/video/1657392966-5db9b3ec0d891d65e68a8a6a561a3a48b4b2761b3427a452a83d2a906e4322a7-d_295x166?r=pad)](https://vimeo.com/818799813?share=copy "Splunk Lab")
 
+<h2>Summary</h2>
+
+In conclusion, using data uploaded into splunk I created search results based a query for certain parts of the data uploaded. I also demonstrated the different ways splunk can display the data; namely chart types. Splunk can be used for searching, monitoring, and analyzing all types of machine-generated data.
+
+
 
 <h1>Thank Your for looking! For more content like this, visit <a href="https://exemplarysecurity.com">my website</a>☺</h1>
 
