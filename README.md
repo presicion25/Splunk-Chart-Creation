@@ -130,7 +130,7 @@ Below is a video demonstration of me doing a basic search in Splunk based on dat
 
 <h2>Summary</h2>
 
-In conclusion, using data uploaded into splunk I created search results based a query for certain parts of the data uploaded. I also demonstrated the different ways splunk can display the data; namely chart types. Splunk can be used for searching, monitoring, and analyzing all types of machine-generated data.
+In conclusion, using data uploaded into splunk I created search results based on a query for certain parts of the data uploaded. I also demonstrated the different ways splunk can display the data; namely chart types. Splunk can be used for searching, monitoring, and analyzing all types of machine-generated data.
 
 
 
