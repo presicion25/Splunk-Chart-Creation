@@ -10,7 +10,7 @@ In this demonstration I created charts based on search queries in Splunk. I also
 <h2>Environments and Technologies Used</h2>
 
 - Splunk Enteprise (Local Install)
-- Data in the formn of .csv files
+- Data in the form of .csv files
 
 <h2>Prerequisites</h2>
 
